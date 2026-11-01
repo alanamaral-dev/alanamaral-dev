@@ -20,5 +20,6 @@ Buscando melhorar a cada dia!
 ## 📊 Estatísticas
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=alanamaral-dev&show_icons=true&theme=dark)
+![Gráfico de atividade](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=github-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanamaral-dev&layout=compact&theme=dark)
 
