@@ -1,9 +1,6 @@
-# Olá, eu sou o Alan 👋
+Hi, my name is Alan. I currently live in Brasília, Brazil. I'm a software engineering student focused on Python.
 
-Engenheiro de Software em formação, com foco em **Python**, **C** e **SQL**.
-Buscando melhorar a cada dia!
-
-## 🛠️ Tecnologias
+## 🛠️ Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
@@ -13,11 +10,11 @@ Buscando melhorar a cada dia!
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white)
 
-## 🚀 Projetos em destaque
+## 🚀 Projects
 
 - [**estoque-py**](https://github.com/alanamaral-dev/estoque-py): sistema de controle de estoque em Python
 
-## 📊 Estatísticas
+## 📊 Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=alanamaral-dev&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanamaral-dev&layout=compact&theme=dark)
